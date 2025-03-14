@@ -36,8 +36,9 @@ function redhawk_banner(){
   ██║  ██║███████╗██████╔╝   ###     ###   @@@     @@@     \      \/      /    |   |\   \
   ╚═╝  ╚═╝╚══════╝╚═════╝    ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                 |0\/0|
-         {C} Coded By - CresencioShiro A.K.A Kristoffer        \/\/
-                                                                  \/ \e[97m [$] EDUCATIONAL PURPOSE ONLY and use it well ;)
+       {C} Coded By - CresencioShiro / Kristoffer Alcoseba       \/\/
+                                                                  \/ \e[97m [$] EDUCATIONAL PURPOSE ONLY and use it well ;)  > SAFE VERSION <
+                                                                  Since it's the safe version, not all answers are shown. The results depend on whether the host addresses are secured or not.
 \e[32m
   \n";
 }
