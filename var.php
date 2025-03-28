@@ -23,7 +23,7 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function redhawk_banner(){
   echo "\e[91;1m
-           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m
+           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m\eSAFE VERSION[36m
                                                               .  .  .  .
                                                               .  |  |  .
                                                            .  |        |  .
@@ -37,8 +37,8 @@ function redhawk_banner(){
   ╚═╝  ╚═╝╚══════╝╚═════╝    ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                 |0\/0|
        {C} Coded By - CresencioShiro / Kristoffer Alcoseba       \/\/
-                                                                  \/ \e[97m [$] EDUCATIONAL PURPOSE ONLY and use it well ;)  > SAFE VERSION <
-                                                                  Since it's the safe version, not all answers are shown. The results depend on whether the host addresses are secured or not.
+                                                                  \/ \e[97m [$] EDUCATIONAL PURPOSE ONLY and use it well ;) 
+                                                                   The results depend on whether the host addresses are secured or not.
 \e[32m
   \n";
 }
