@@ -43,7 +43,7 @@ function cloudflaredetect($reallink){
     }
   else
     {
-      echo "\e[92mNot Detected\n\e[0m";
+      echo "\e[92mNot Detected or can't connect\n\e[0m";
     }
 }
 
@@ -206,7 +206,7 @@ function extract_social_links($sourcecode){
       array_push($social_links_array['pinterest'], $link);
     }
     else {
-      // I know this has nothing to do with the code but again i love comments ;__; it's feels good to waste time :p
+      // You found a dead end :3
     }
   }
   if ($total_social_link_count == 0){
