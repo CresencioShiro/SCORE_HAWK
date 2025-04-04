@@ -33,7 +33,7 @@ userinput("Enter The Website You Want To Scan ");
 $ip = trim(fgets(STDIN, 1024));
 if ($ip == "help")
   {
-    echo "\n\n[+] RED HAWK Help Screen [+] \n\n";
+    echo "\n\n[+] SCORE HAWK Help Screen [+] \n\n";
     echo $bold . $lblue . "Commands\n";
     echo "========\n";
     echo $fgreen . "[1] help:$cln View The Help Menu\n";
@@ -44,7 +44,7 @@ if ($ip == "help")
   }
 elseif ($ip == "fix")
   {
-    echo "\n\e[91m\e[1m[+] RED HAWK FiX MENU [+]\n\n$cln";
+    echo "\n\e[91m\e[1m[+] SCORE HAWK FiX MENU [+]\n\n$cln";
     echo $bold . $blue . "[+] Checking If cURL module is installed ...\n";
     if (!extension_loaded('curl'))
       {
@@ -69,7 +69,7 @@ elseif ($ip == "fix")
       {
         echo $bold . $fgreen . "[i] php-XML is already installed, You Are All SET ;) \n";
       }
-    echo $bold . $fgreen . "[i] Job finished successfully! Please Restart RED HAWK \n";
+    echo $bold . $fgreen . "[i] Job finished successfully! Please Restart SCORE HAWK \n";
     exit;
   }
 elseif ($ip == "update")
@@ -118,7 +118,7 @@ scanlist:
       \n\n";
     echo $yellow . " [0]  Basic Recon$white (Site Title, IP Address, CMS, Cloudflare Detection, Robots.txt Scanner)$yellow \n [1]  Whois Lookup \n [2]  Geo-IP Lookup \n [3]  Grab Banners \n [4]  DNS Lookup \n [5]  Subnet Calculator \n [6]  NMAP Port Scan \n [7]  Subdomain Scanner \n [8]  Reverse IP Lookup & CMS Detection \n [9]  SQLi Scanner$white (Finds Links With Parameter And Scans For Error Based SQLi)$yellow \n [10] Bloggers View$white (Information That Bloggers Might Be Interested In)$yellow \n [11] WordPress Scan$white (Only If The Target Site Runs On WP)$yellow \n [12] Crawler \n [13] MX Lookup \n$magenta [A]  Scan For Everything - (The Old Lame Scanner) \n$blue [F]  Fix (Checks For Required Modules and Installs Missing Ones) \n$fgreen [U]  Check For Updates \n$white [B]  Scan Another Website (Back To Site Selection) \n$red [Q]  Quit! \n\n" . $cln;
 askscan:
-    userinput("Choose Any Scan OR Action From The Above List");
+    userinput("Choose Any Scan OR Action From The Above List >SAFE VERSION<");
     $scan = trim(fgets(STDIN, 1024));
 
     if (!in_array($scan, array(
