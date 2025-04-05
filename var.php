@@ -23,7 +23,7 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function redhawk_banner(){
   echo "\e[91;1m
-           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m \e >> SAFE VERSION <
+           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m \e >> Non-Safe / HYBRID <
            
            
   █████████    █████████     ███████    ███████████   ██████████                                  .  .  .  .
@@ -39,7 +39,7 @@ function redhawk_banner(){
                                                                  ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                                                     |0\/0|
        {C} Coded By - CresencioShiro / Kristoffer Alcoseba                                           \/\/
-                                                                                                      \/ \e[97m [$] EDUCATIONAL PURPOSE ONLY and use it well ;)  > SAFE VERSION <
+                                                                                                      \/ \e[97m [$] This mode goes deep. Don’t go too far—stay ethical and safe.
                         
 \e[32m
   \n";
