@@ -39,8 +39,8 @@ function redhawk_banner(){
                                                                  ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                                                     |0\/0|
        {C} Coded By - CresencioShiro / Kristoffer Alcoseba                                           \/\/
-                                                                                                      \/ \e[97m [$] This mode goes deep. Don’t go too far—stay ethical and safe.
-                        
+                                                                                                      \/ \e[97m [$] 
+                    >> This mode goes deep. Don’t go too far—stay ethical and safe.  < 
 \e[32m
   \n";
 }
