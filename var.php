@@ -25,6 +25,7 @@ function redhawk_banner(){
   echo "\e[91;1m
            All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m \e >> SAFE VERSION <
            
+           
   █████████    █████████     ███████    ███████████   ██████████                                  .  .  .  .
  ███░░░░░███  ███░░░░░███  ███░░░░░███ ░░███░░░░░███ ░░███░░░░░█                                 .  |  |  .
 ░███    ░░░  ███     ░░░  ███     ░░███ ░███    ░███  ░███  █ ░                                .  |        |  .
