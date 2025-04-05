@@ -1,10 +1,9 @@
 
-#### Version 2.0.0
-#### By R3D#@0R_2H1N A.K.A Tuhinshubhra
+#### Version 2.0.0 SAFE VERSION
 ### Programmed by CresencioShiro A.K.A Kristoffer
 All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
-# Scans That You Can Perform Using RED HAWK :
+# Scans That You Can Perform Using SCORE/RED HAWK :
 + Basic Scan
 	- Site Title **NEW**
 	- IP Address
@@ -44,9 +43,10 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 ---
 # Released Versions:
-    - Version 1.0.0 [11-06-2017]
-    - Version 1.1.0 [15-06-2017]
-    - Version 2.0.0 [11-08-2017]
+    - Version 1.0.0 [11-06-2024]
+    - Version 1.1.0 [15-06-2024]
+    - Version 2.0.0 [11-08-2024]
+	- Version 2.5.0 [31-03-2025]
 
 # Changelog:
 - Version 1.0.0
@@ -79,7 +79,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + All set, now you can enjoy the bloggers view.
 
 # Usage:
-- git clone `https://github.com/Tuhinshubhra/RED_HAWK`
+- git clone `https://github.com/CresencioShiro/SCORE_HAWK`
 - cd RED_HAWK
 - php rhawk.php
 - Use the "help" command to see the command list or type in the domain name you want to scan (without Http:// OR Https://).
@@ -98,21 +98,6 @@ RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Conten
 **ISSUE:** Scanner Stops Working After Cloudflare Detection!
 
 **SOLUTION:** Use The `fix` Command OR Manually Install *php-curl* & *php-xml*
-
-Watch The Video TO See How To Solve This Isuue : https://www.youtube.com/watch?v=QuFPY9NFTM8
-
-# Video Demonstration
-<a href="https://www.youtube.com/watch?v=Jt9kBFiJDrE" target="_blank"><img src="https://i.imgur.com/SXDWohl.png" 
-alt="Video Thumbnail" border="10" /></a>
-
-# Suggestions And Feedbacks
-Want to contribute to RED HAWK or point out something wrong? Just create a new issue here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new
-I'd love to hear from you.
-
-# Support and Donations
-Found RED HAWK cool? well you could buy me a cup of tea ;) (no alcohol plz xD) just send any amount of donations (in BTC) to this address : **1NbiQidWWVVhWknsfPSN1MuksF8cbXWCku**
-
-Can't donate? well that's no problem just drop a **THANK YOU** this will motivate me to create more exciting stuffs for you ;)
 
 # TODOs
 
