@@ -23,7 +23,7 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function redhawk_banner(){
   echo "\e[91;1m
-           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m \e >> Non-Safe / HYBRID <
+           All In One Tool For\e[36m Information Gathering\e[91m And\e[32m Vulnerability Scanning\e[91m \e >> SAFE VERSION <
            
            
   █████████    █████████     ███████    ███████████   ██████████                                  .  .  .  .
@@ -34,13 +34,13 @@ function redhawk_banner(){
  ███    ░███░░███     ███░░███     ███  ░███    ░███  ░███ ░   █ ###     ###    @@@@ @@@@    .   (\ |||||| /)   .  |   | /   /
 ░░█████████  ░░█████████  ░░░███████░   █████   █████ ██████████ ###     ###   @@@@   @@@@   |  (\  |/  \|  /)  |  |   |/   /
                                                                  ###########   @@@@@@@@@@@     (\             )    |       /
-                                                                 ###########   @@@@@@@@@@@    (\ \e[93m Ver  2.5.1\e[91m  /)   |       \ 
+                                                                 ###########   @@@@@@@@@@@    (\ \e[93m Ver  2.5.0\e[91m  /)   |       \ 
                                                                  ###     ###   @@@     @@@     \      \/      /    |   |\   \
                                                                  ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                                                     |0\/0|
        {C} Coded By - CresencioShiro / Kristoffer Alcoseba                                           \/\/
                                                                                                       \/ \e[97m 
-                    Notice: This mode goes deep. Don’t go too far—stay ethical and safe. 
+                    Notice: Safe mode keeps it clean—no harm, just learning and Explore safely.
 \e[32m
   \n";
 }
