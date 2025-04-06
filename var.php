@@ -40,7 +40,7 @@ function redhawk_banner(){
                                                                                                     |0\/0|
        {C} Coded By - CresencioShiro / Kristoffer Alcoseba                                           \/\/
                                                                                                       \/ \e[97m 
-                    Notice: Safe mode keeps it clean—no harm, just learning and Explore safely.
+                    Reminder!: This mode goes deep. Don't go too far-stay Ethical and safe
 \e[32m
   \n";
 }
